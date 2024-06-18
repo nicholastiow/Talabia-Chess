@@ -1,0 +1,29 @@
+2
+5
+Point 2 6 4 false
+Point 2 4 4 false
+Point 2 3 4 false
+Point 2 2 2 false
+Point 2 1 4 false
+Point 2 0 4 false
+Time 2 6 5 true
+HourGlass 2 4 3 true
+Plus 2 4 5 true
+Sun 2 3 5 true
+Plus 2 2 5 true
+HourGlass 2 1 5 true
+Time 2 0 5 true
+Point 1 6 1 true
+Point 1 5 5 false
+Point 1 4 1 true
+Point 1 3 1 true
+Point 1 2 1 true
+Point 1 1 1 true
+Point 1 0 1 true
+Time 1 6 0 true
+HourGlass 1 5 0 true
+Plus 1 4 0 true
+Sun 1 3 0 true
+Plus 1 2 0 true
+HourGlass 1 1 0 true
+Time 1 0 0 true
